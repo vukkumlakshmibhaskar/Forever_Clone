@@ -19,7 +19,7 @@ app.use(
     origin: [
       'http://localhost:3000',              
       // local React
-      'https://forever-clone-wine.vercel.app/' 
+      'https://forever-clone-wine.vercel.app' 
       // replace with your Vercel URL
     ],
     methods: ['GET', 'POST', 'PUT', 'DELETE'],
